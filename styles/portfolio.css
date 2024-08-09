@@ -33,10 +33,28 @@ nav a{
     color: #474747;
 }
 
-nav button{
+.primary-btn{
     background-color: #FD6E0A;
     color: aliceblue;
     border: none;
     border-radius: 5px;
     padding: 5px 20px;
+}
+.header{
+    background-color: #FFF8F3;
+}
+.nav-bar-style{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.banner{
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-picture{
+    width: 500px;
 }
