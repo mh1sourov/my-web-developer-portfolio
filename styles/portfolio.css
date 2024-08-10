@@ -62,7 +62,7 @@ nav a{
 .banner .profile-picture{
     width: 500px;
 }
-main{
+.kuniri{
     background-color: #FFF8F3;
     margin: 50px 200px;
     padding: 150px;
@@ -71,10 +71,23 @@ main{
 .diving{
     border: #181818 solid 3px;
     background-color: #FFFFFF;
+    padding: 20px;
 }
 
-.wdid{
-    background-color: chartreuse;
-    width: 500px;
-    height: 300px;
+.wid{
+    background-color: #FFFFFF;
+    margin: 50px 200px;
+    padding: 150px;
+}
+
+.wido-container{
+    display: flex;
+    padding: 30px;
+    background-color: #FD6E0A;
+}
+
+.eduandexperiencecontainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 200px;
 }
