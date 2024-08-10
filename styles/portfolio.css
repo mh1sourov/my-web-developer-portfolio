@@ -91,3 +91,16 @@ nav a{
     justify-content: space-around;
     padding: 0 200px;
 }
+
+.download-cv-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.letscontainer{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    padding-top: 100px;
+    margin-top: 50px;
+}
