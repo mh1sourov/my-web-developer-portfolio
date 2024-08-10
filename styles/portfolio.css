@@ -42,6 +42,9 @@ nav a{
 }
 .header{
     background-color: #FFF8F3;
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .nav-bar-style{
     margin-left: 200px;
@@ -53,8 +56,25 @@ nav a{
     margin-left: 200px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .banner .profile-picture{
     width: 500px;
+}
+main{
+    background-color: #FFF8F3;
+    margin: 50px 200px;
+    padding: 150px;
+}
+
+.diving{
+    border: #181818 solid 3px;
+    background-color: #FFFFFF;
+}
+
+.wdid{
+    background-color: chartreuse;
+    width: 500px;
+    height: 300px;
 }
